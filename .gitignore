@@ -1,0 +1,7 @@
+data/ventas_2025.txt
+logs/etl_camisas.txt
+data/Camisas_inventario.xlsx
+logs/
+__pycache__/
+*.pyc
+.env
