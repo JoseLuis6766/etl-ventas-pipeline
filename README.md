@@ -1,4 +1,4 @@
-# ETL Pipeline — Sistema de Ventas de Camisas 2025
+# ETL Pipeline — Sistema de Ventas de Camisas
 
 > Pipeline de datos completo que transforma registros de ventas escritos a mano en texto libre hacia una base de datos analítica estructurada, con arquitectura en capas `raw → bronze → silver → gold`.
 
