@@ -6,7 +6,7 @@
 
 ## Contexto del problema
 
-Un negocio de venta de camisas en mercado registra sus ventas manualmente en un archivo `.txt` sin estructura formal, usando lenguaje coloquial, abreviaciones y errores ortográficos. Por ejemplo:
+Un negocio de venta de camisas registra sus ventas manualmente en un archivo `.txt` sin estructura formal, usando lenguaje coloquial, abreviaciones y errores ortográficos. Por ejemplo:
 
 ```
 Miércoles agosto 13
